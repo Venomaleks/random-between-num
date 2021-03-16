@@ -8,7 +8,7 @@ public class MyRandomMethods {
 	
 		Random rand = new Random();
 		
-		int result0 = rand.nextInt(9)+1;
+		int result0 = rand.nextInt(10)+1;
 		
 		return result0;
 	}
@@ -18,7 +18,7 @@ public class MyRandomMethods {
 			
 		Random rand = new Random();
 		
-		int result1 = rand.nextInt(9)+11;
+		int result1 = rand.nextInt(10)+11;
 		
 		return result1;
 	}
@@ -29,7 +29,7 @@ public class MyRandomMethods {
 		
 		Random rand = new Random();
 		
-	 	int result2 = rand.nextInt(9)+21;
+	 	int result2 = rand.nextInt(10)+21;
 		
 		return result2;
 	}
@@ -39,7 +39,7 @@ public class MyRandomMethods {
 		
 		Random rand = new Random();
 		
-		int result3 = rand.nextInt(9)+31;
+		int result3 = rand.nextInt(10)+31;
 		
 		return result3;
 	}
@@ -49,7 +49,7 @@ public class MyRandomMethods {
 		
 		Random rand = new Random();
 		
-		int result4 = rand.nextInt(9)+41;
+		int result4 = rand.nextInt(10)+41;
 		
 		return result4;
 	}	
